@@ -1,0 +1,25 @@
+﻿  Document_Scanner.cpp
+C:\Users\varug\source\repos\Document Scanner\Document Scanner\Document_Scanner.cpp(41,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\varug\source\repos\Document Scanner\Document Scanner\Document_Scanner.cpp(48,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\varug\source\repos\Document Scanner\Document Scanner\Document_Scanner.cpp(98,49): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\varug\source\repos\Document Scanner\Document Scanner\Document_Scanner.cpp(98,46): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\varug\source\repos\Document Scanner\Document Scanner\Document_Scanner.cpp(103,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\varug\source\repos\Document Scanner\Document Scanner\Document_Scanner.cpp(123,50): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+C:\Users\varug\source\repos\Document Scanner\Document Scanner\Document_Scanner.cpp(123,31): warning C4244: 'argument': conversion from 'float' to '_Tp', possible loss of data
+          with
+          [
+              _Tp=int
+          ]
+  Document Scanner.vcxproj -> C:\Users\varug\source\repos\Document Scanner\x64\Debug\Document Scanner.exe
